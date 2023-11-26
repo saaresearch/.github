@@ -1,0 +1,1 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=1000&height=100&lines=Hello%2C+we+are+a+team+of+developers+from+ITMO+University+and+not+only!)](https://git.io/typing-svg)

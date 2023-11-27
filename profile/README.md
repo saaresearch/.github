@@ -8,7 +8,7 @@ We are an innovative open-source organization focused on the development of cutt
 ### 🏆 Our Main Product: ODRS Framework
 
 #### Overview
-ODRS (Object Detection and Recommendation System) is our flagship framework, designed to revolutionize the way machine learning models are selected and trained for real-time object detection tasks, especially under challenging environmental conditions. 
+ODRS (Object Detection Recommendation System) is our flagship framework, designed to revolutionize the way machine learning models are selected and trained for real-time object detection tasks, especially under challenging environmental conditions. 
 
 #### Key Features
 - **Model Selection & Training**: ODRS provides a robust platform for selecting and training machine learning models tailored for real-time object detection.
